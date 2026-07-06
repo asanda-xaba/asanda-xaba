@@ -2,7 +2,7 @@
 
 Information Systems student at UCT, moving from data analysis into data engineering.
 
-- 🎓 Final-year BBusSc Information Systems student at the University of Cape Town
+- 🎓 BBusSc Information Systems student at the University of Cape Town
 - 💼 Data Analyst Intern at **CloudZA** (AI & cloud consultancy, Cape Town) — building analytics pipelines and dashboards for clients
 - 🔧 Currently deep in AWS: Glue, Athena, Iceberg, Step Functions, QuickSight
 - 📊 Recently shipped a Post-Call QA analytics dashboard (QuickSight/Athena) for a financial services client
