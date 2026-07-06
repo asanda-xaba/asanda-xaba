@@ -6,9 +6,7 @@ Information Systems student at UCT, moving from data analysis into data engineer
 - 💼 Data Analyst Intern at **CloudZA** (AI & cloud consultancy, Cape Town) — building analytics pipelines and dashboards for clients
 - 🔧 Currently deep in AWS: Glue, Athena, Iceberg, Step Functions, QuickSight
 - 📊 Recently shipped a Post-Call QA analytics dashboard (QuickSight/Athena) for a financial services client
-- 🌱 Exploring the path from Analytics → Analytics Engineer → Solutions Architect
 - 👨‍🏫 Tutor for INF3003W (Systems Development Project) at UCT
-- 🤝 Member of UCT Consulting Society and ABSIP
 
 ## Featured project
 
