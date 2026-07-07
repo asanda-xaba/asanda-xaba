@@ -19,8 +19,10 @@ Information Systems student at UCT, moving from data analysis into data engineer
 ## Skills
 
 **Languages:** Python · SQL · C# · HTML/CSS
+
 **Data & Cloud:** AWS Glue · Athena · S3 · Step Functions · EventBridge · Iceberg · QuickSight
 **Analytics:** Tableau · Excel
+
 **Other:** Business process analysis (BPMN), requirements gathering, stakeholder management
 
 ## Connect
