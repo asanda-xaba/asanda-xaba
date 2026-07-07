@@ -10,7 +10,7 @@ Information Systems student at UCT, moving from data analysis into data engineer
 
 ## Featured project
 
-**[AWS Weather & Air Quality Pipeline](#)** — an end-to-end data engineering pipeline built to demonstrate production-style ingestion and transformation:
+**[AWS Weather & Air Quality Pipeline](https://github.com/asanda-xaba/weather-pollution-pipeline)** — an end-to-end data engineering pipeline built to demonstrate production-style ingestion and transformation:
 - Ingests live OpenWeather API data for three South African cities
 - Lands raw data in S3, transforms with Glue PySpark jobs
 - Writes to Iceberg tables for schema evolution and time-travel queries
