@@ -25,5 +25,5 @@ Information Systems student at UCT, moving from data analysis into data engineer
 
 ## Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/asanda-xaba-b17b44297
+- 💼 LinkedIn: https://www.linkedin.com/in/asanda-xaba
 - ✉️ Email: asandaxaba.x@gmail.com
